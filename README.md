@@ -1,8 +1,8 @@
-## DataCleaning Project
+# DataCleaning Project
 This is a project made to utilise all the data cleaning process in Python Pandas. The dataset is a hypothetical medical data created in chat gpt containing Patients Name, Age, Gender, Blood Type, Admission Date,
 Discharge Date, Medication, Diagnosis and Bill Amount.
 
-# Objective of the Project
+## Objective of the Project
 * Check for Null values and Fill them or Remove them.
 * Normalise extra space or gaps in the names or other columns.
 * Normalise the Gender Column (e.g. In some places instead of 'Female' it is 'F' and vice versa).
