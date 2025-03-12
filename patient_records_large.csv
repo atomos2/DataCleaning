@@ -1,0 +1,201 @@
+Patient_ID,Name,Age,Gender,Blood_Type,Admission_Date,Discharge_Date,Diagnosis,Medication,Bill_Amount,Phone_Number
+1,Emily Davis,37,F,O,09/18/2023,"September 27, 2023",Diabetes,Amlodipine,-334,68422355
+2,Olivia White,,Female,AB-,2023-10-28,2023-11-02,Flu,Paracetamol,9217,7696217037
+3,Jane Smith,N/A,FEMALE,O+,11/08/2023,2023-11-14,Asthma,N/A,-435,05558391746
+4,Ava Lewis,N/A,Female,B-,05/17/2023,27-05-2023,Asthma,Paracetamol,1364,07358029540
+5,John Doe,61,male,B+,06/01/2023,07-06-2023,Hypertension,N/A,6806,87028216
+6,Michael Lee,N/A,F,B+,08/12/2023,2023-08-25,Bronchitis,Metformin,9500,94360172662
+7,Liam Scott,48,FEMALE,A+,2023-03-31,2023-04-09,Flu,Metformin,8067,6870701076
+8,Ava Lewis,36,Male,O,03/06/2023,"March 10, 2023",Bronchitis,N/A,-149,73557599575
+9,Ava Lewis,N/A,Female,B+,"January 31, 2024",15-02-2024,,Amlodipine,-217,7193063401
+10,Emily Davis,49,Female,AB-,08-01-2023,,Diabetes,,-464,1635572507
+11,Sophia Martinez,N/A,FEMALE,O+,14-07-2023,2023-07-23,Bronchitis,Metformin,-192,7478344636
+12,Emily Davis,,male,B-,20-03-2023,2023-03-26,Bronchitis,Ibuprofen,-309,6691739574
+13,Daniel Harris,26,male,B-,27-11-2023,2023-12-06,COVID-19,Metformin,-432,14247921105
+14,Alice Johnson,,Female,O-,01/10/2024,18-01-2024,Flu,Metformin,9925,95855425714
+15,Robert Brown,N/A,FEMALE,AB+,03-01-2024,2024-01-10,Bronchitis,Amlodipine,-411,26396937
+16,Robert Brown,25,male,A+,"June 16, 2023","June 26, 2023",Flu,Ibuprofen,9506,6364794487
+17,Michael Lee,N/A,male,AB+,05/27/2023,05/28/2023,Bronchitis,Amlodipine,1630,88578814
+18,Jane Smith,N/A,male,A+,01/15/2024,01/25/2024,Bronchitis,Ibuprofen,-246,02420869283
+19,Liam Scott,N/A,male,B+,2024-01-28,2024-02-03,Migraine,Remdesivir,-308,9240660928
+20,Michael Lee,N/A,FEMALE,B-,09-05-2023,"May 19, 2023",Diabetes,N/A,5381,4218897923
+21,Robert Brown,N/A,Female,AB+,"October 06, 2023",10/16/2023,Diabetes,,5001,00459657
+22,Liam Scott,N/A,FEMALE,AB+,11/19/2023,11/21/2023,Flu,Insulin,-340,9532382124
+23,Alice Johnson,51,Female,O,02/19/2023,02/24/2023,Diabetes,N/A,-484,79308139927
+24,Chris Evans,54,FEMALE,AB+,2023-03-01,"March 11, 2023",COVID-19,Insulin,-247,64991815305
+25,Ava Lewis,54,F,O,"January 24, 2024",2024-01-25,Asthma,Paracetamol,7950,99471958
+26,Sophia Martinez,N/A,FEMALE,O+,04-09-2023,"September 13, 2023",Flu,,1312,12902890324
+27,Emily Davis,,Female,B-,18-01-2023,01/19/2023,Bronchitis,Amlodipine,-334,5641916926
+28,Chris Evans,20,FEMALE,AB-,2023-09-15,"September 30, 2023",Hypertension,,9943,71419412
+29,Michael Lee,N/A,Female,AB+,2023-06-23,"June 28, 2023",Flu,Ibuprofen,-440,59840508435
+30,Olivia White,,Male,A-,"March 13, 2023",03/21/2023,Diabetes,Metformin,-266,05098077248
+31,Robert Brown,N/A,Male,O,"August 17, 2023",28-08-2023,,Insulin,3438,9772185162
+32,Anna Wilson,N/A,Female,B+,23-04-2023,04/25/2023,Diabetes,Paracetamol,-244,47964345546
+33,Daniel Harris,N/A,Male,B+,"October 24, 2023",11/03/2023,Bronchitis,N/A,3988,79078202
+34,Olivia White,N/A,FEMALE,O+,2023-09-04,09/11/2023,Asthma,,-423,07620339136
+35,Mark Taylor,43,FEMALE,AB-,2023-02-11,13-02-2023,,Ibuprofen,-193,25230589
+36,John Doe,,male,A+,"February 03, 2024",02/14/2024,Flu,Remdesivir,-219,05086533
+37,Olivia White,,Female,A+,03/26/2023,04/08/2023,,Amlodipine,675,63279585259
+38,Daniel Harris,61,Female,AB-,2023-01-06,01/15/2023,Diabetes,N/A,-448,22216460833
+39,Michael Lee,64,Male,A-,02/17/2023,02/26/2023,Migraine,Metformin,7685,6808350403
+40,Anna Wilson,32,FEMALE,B-,10/06/2023,2023-10-17,,,-116,13671207559
+41,Olivia White,N/A,F,O+,21-04-2023,"April 25, 2023",Bronchitis,Remdesivir,5833,8926911676
+42,John Doe,,Male,AB+,"March 04, 2023",03/06/2023,Hypertension,N/A,628,21771026
+43,Daniel Harris,,F,O-,25-01-2023,,Flu,Paracetamol,8145,54950447281
+44,Mark Taylor,N/A,Male,O-,23-02-2023,2023-03-06,Diabetes,Remdesivir,2233,68961246
+45,Ava Lewis,50,FEMALE,AB-,25-05-2023,2023-06-04,Asthma,Ibuprofen,8963,7572219825
+46,Ava Lewis,,male,O+,16-02-2023,2023-02-22,COVID-19,Remdesivir,5104,00210635042
+47,Chris Evans,55,F,O-,16-11-2023,"December 01, 2023",Hypertension,N/A,8734,3860356931
+48,Emily Davis,N/A,FEMALE,O+,10/08/2023,2023-10-19,Migraine,Insulin,-461,7317422534
+49,John Doe,N/A,Female,A-,11/29/2023,11-12-2023,Hypertension,Metformin,-456,9940097009
+50,Michael Lee,48,M,B-,2023-12-24,2023-12-31,Bronchitis,Amlodipine,9864,62489223367
+51,Emily Davis,25,M,O+,"April 11, 2023","April 15, 2023",,N/A,-108,68659712
+52,Jane Smith,,Male,O-,18-09-2023,10/02/2023,Hypertension,Insulin,-245,80064032
+53,Liam Scott,,Female,AB-,13-09-2023,25-09-2023,Asthma,N/A,-333,79170032
+54,Olivia White,69,Female,O,"August 14, 2023",,Diabetes,Insulin,-380,9832581953
+55,John Doe,,FEMALE,B-,03/30/2023,2023-04-06,,Paracetamol,-249,0462725872
+56,Ava Lewis,27,Female,A-,2023-08-01,08/10/2023,,Remdesivir,7773,62202498
+57,Liam Scott,N/A,F,A-,"November 16, 2023",11/24/2023,,Remdesivir,2629,13655929
+58,Daniel Harris,N/A,F,O-,"May 30, 2023",06/07/2023,Bronchitis,,3658,29802238781
+59,Alice Johnson,N/A,F,O-,"November 10, 2023",,Migraine,Metformin,7047,43844972
+60,Jane Smith,72,Female,O-,2023-12-20,01-01-2024,Flu,Amlodipine,9171,9791657719
+61,Daniel Harris,41,F,B+,"September 30, 2023",07-10-2023,Flu,N/A,-249,36708916
+62,Ava Lewis,,M,O,2023-12-02,,COVID-19,Remdesivir,-204,02930245337
+63,Mark Taylor,,Female,B+,28-04-2023,05/05/2023,Flu,Insulin,6773,41339930
+64,Alice Johnson,,male,O-,2024-01-29,01-02-2024,,Ibuprofen,-131,48567327541
+65,Chris Evans,,F,O+,"February 23, 2023",,Flu,Insulin,9284,35778322
+66,Emily Davis,N/A,male,O,"February 03, 2024",2024-02-13,Bronchitis,,-395,57174034
+67,Sophia Martinez,,male,O,10/10/2023,14-10-2023,Asthma,,1582,2833745624
+68,Alice Johnson,65,male,O,14-11-2023,11/19/2023,,Ibuprofen,-237,96628327
+69,Ava Lewis,N/A,F,O+,2023-01-22,"January 25, 2023",,Metformin,-196,00221283108
+70,Emily Davis,,Male,O,2023-07-27,30-07-2023,Hypertension,,-472,5220582287
+71,Anna Wilson,78,M,AB+,"December 14, 2023",12/24/2023,Hypertension,Ibuprofen,5545,47685130081
+72,Ava Lewis,,male,O+,"May 27, 2023",2023-06-10,,Remdesivir,-392,53173461437
+73,John Doe,65,male,AB+,30-05-2023,"June 08, 2023",Bronchitis,Ibuprofen,-391,13330662446
+74,Michael Lee,,Male,AB-,05/08/2023,05/23/2023,Diabetes,Metformin,-144,19618566797
+75,John Doe,N/A,male,A-,21-11-2023,2023-11-27,COVID-19,N/A,1073,8886269972
+76,Chris Evans,,male,O+,23-01-2024,"January 31, 2024",Flu,Remdesivir,2418,9456125534
+77,Daniel Harris,,Female,O+,2023-04-25,"April 30, 2023",Hypertension,Insulin,3105,44526671
+78,Michael Lee,68,M,O-,2023-02-11,"February 26, 2023",Bronchitis,Amlodipine,2549,78349448
+79,Mark Taylor,,Male,B-,04-05-2023,2023-05-12,Bronchitis,Metformin,-478,93483433201
+80,Jane Smith,25,F,A+,"October 03, 2023",16-10-2023,Flu,,6294,61955281263
+81,Daniel Harris,N/A,M,AB-,"December 07, 2023","December 18, 2023",Diabetes,Amlodipine,7604,68450373
+82,Robert Brown,67,male,AB+,02/05/2024,12-02-2024,Migraine,Ibuprofen,-117,43480997884
+83,Anna Wilson,,Male,A-,22-05-2023,"June 06, 2023",Migraine,Ibuprofen,3323,90081107310
+84,Mark Taylor,47,M,AB+,12/07/2023,14-12-2023,COVID-19,Paracetamol,8738,8187033460
+85,Ava Lewis,,Male,O,03-06-2023,"June 05, 2023",Hypertension,Amlodipine,9862,4750003066
+86,Ava Lewis,69,male,O+,"June 30, 2023",2023-07-13,Asthma,Paracetamol,-463,36995567703
+87,Michael Lee,,Female,O-,03-08-2023,14-08-2023,Bronchitis,Metformin,-249,01551627
+88,Emily Davis,N/A,Male,B+,2023-10-24,10/26/2023,Diabetes,Ibuprofen,4955,0539967283
+89,Jane Smith,,Female,O,27-07-2023,2023-07-28,Hypertension,Metformin,-490,02468629
+90,Daniel Harris,N/A,Male,AB-,03/15/2023,2023-03-18,Diabetes,Insulin,5638,23345429071
+91,Mark Taylor,35,FEMALE,O+,02/12/2023,02/18/2023,Diabetes,,-383,73899835074
+92,Daniel Harris,,FEMALE,A-,"January 10, 2023","January 20, 2023",Diabetes,Paracetamol,5105,4393798985
+93,Olivia White,,M,O+,01/22/2024,26-01-2024,Asthma,Insulin,-386,81764019358
+94,Robert Brown,N/A,F,A-,2023-01-06,12-01-2023,Diabetes,Remdesivir,6020,41795638
+95,Olivia White,,FEMALE,B+,"June 24, 2023",03-07-2023,Diabetes,,3764,0472598964
+96,Emily Davis,,M,A-,07/18/2023,08/01/2023,Bronchitis,Amlodipine,-317,1910326689
+97,Mark Taylor,N/A,Female,O-,2023-08-05,08/13/2023,Diabetes,,3952,42459062
+98,Olivia White,79,FEMALE,O,03-10-2023,2023-10-11,Diabetes,Metformin,-256,6424578919
+99,Anna Wilson,45,male,O+,2023-04-23,2023-05-07,COVID-19,Ibuprofen,-220,4309976420
+100,Robert Brown,N/A,Male,O+,10-02-2023,02/23/2023,Asthma,Ibuprofen,8792,33673156636
+101,Michael Lee,53,M,A+,02/03/2024,"February 13, 2024",Bronchitis,Insulin,6071,05139969
+102,Emily Davis,65,FEMALE,AB+,07-06-2023,2023-06-16,Hypertension,Insulin,-339,7330670360
+103,Daniel Harris,N/A,F,O+,"May 17, 2023",05/27/2023,,,-447,8787086347
+104,Anna Wilson,76,M,B+,"August 02, 2023",08/03/2023,Asthma,Metformin,-157,13671087751
+105,Jane Smith,N/A,Male,B-,09/26/2023,09/30/2023,Diabetes,,1403,62811805886
+106,Alice Johnson,N/A,Male,O,"September 14, 2023",16-09-2023,,Amlodipine,9622,1928570673
+107,Olivia White,N/A,FEMALE,A-,05/10/2023,"May 20, 2023",Migraine,N/A,1546,97931393
+108,Emily Davis,18,FEMALE,O-,18-02-2023,02/23/2023,Migraine,Ibuprofen,-163,57701207
+109,Liam Scott,N/A,Female,AB-,25-10-2023,2023-11-08,Bronchitis,Ibuprofen,2905,47502770081
+110,Anna Wilson,,male,O-,06-09-2023,20-09-2023,Diabetes,Amlodipine,-442,05652486526
+111,Michael Lee,40,F,O,27-10-2023,09-11-2023,Asthma,N/A,-458,24053046
+112,Chris Evans,N/A,F,A+,12/22/2023,,Bronchitis,Paracetamol,-244,92763534
+113,Chris Evans,39,F,O-,"January 16, 2023",2023-01-26,Migraine,,-431,97561451967
+114,Mark Taylor,N/A,M,A-,2023-09-14,2023-09-26,Bronchitis,Remdesivir,8314,49588879903
+115,Robert Brown,20,Male,O+,"November 26, 2023","December 06, 2023",Diabetes,Insulin,-413,1562025833
+116,Anna Wilson,,F,O-,"April 05, 2023",,Diabetes,Metformin,2232,8903056961
+117,Sophia Martinez,,M,O-,"July 27, 2023","August 07, 2023",COVID-19,,-191,2117814463
+118,Ava Lewis,56,M,B-,24-11-2023,11/27/2023,Flu,Ibuprofen,4362,1504489303
+119,Michael Lee,55,Female,AB-,12/12/2023,"December 20, 2023",COVID-19,Insulin,-349,0937301821
+120,Michael Lee,80,M,AB-,2023-10-19,10/31/2023,,Paracetamol,9944,02614832
+121,Daniel Harris,N/A,F,B+,"May 03, 2023",07-05-2023,Diabetes,Ibuprofen,6838,46185891753
+122,Emily Davis,32,male,O-,2024-02-01,02/04/2024,Hypertension,Insulin,-372,9880338849
+123,John Doe,25,Male,AB-,2023-07-01,10-07-2023,Diabetes,,8125,16419244
+124,Daniel Harris,74,male,A-,2024-01-05,2024-01-10,Asthma,Paracetamol,-334,01439006
+125,Emily Davis,N/A,Female,AB-,"October 14, 2023",2023-10-17,,N/A,-171,5101112667
+126,Chris Evans,N/A,Male,AB+,01/10/2024,01/22/2024,Hypertension,Remdesivir,2237,4723290765
+127,Ava Lewis,N/A,Female,B+,"May 16, 2023",19-05-2023,Flu,Insulin,-367,67953469440
+128,Sophia Martinez,19,FEMALE,O-,"October 18, 2023",20-10-2023,Bronchitis,N/A,5813,99740589447
+129,Liam Scott,25,Female,A+,"February 20, 2023",02/25/2023,Hypertension,Remdesivir,9412,2271770078
+130,Alice Johnson,,Male,O,2023-12-08,12/15/2023,COVID-19,Metformin,-338,6636347813
+131,Robert Brown,57,F,A-,2023-07-02,07/11/2023,Hypertension,Metformin,-137,8843913963
+132,Liam Scott,71,male,O,2023-12-22,30-12-2023,Flu,N/A,-463,14134032
+133,Anna Wilson,,Female,AB-,"June 27, 2023","July 03, 2023",Bronchitis,Metformin,-307,9470652917
+134,Michael Lee,,FEMALE,O,24-12-2023,"January 08, 2024",Asthma,Paracetamol,-315,91498128242
+135,Chris Evans,18,Male,AB+,07/04/2023,2023-07-11,Diabetes,Metformin,-159,4706884229
+136,Alice Johnson,N/A,Female,A+,03/06/2023,20-03-2023,Migraine,N/A,-423,67672049129
+137,Alice Johnson,,F,A-,27-02-2023,"March 04, 2023",Bronchitis,Paracetamol,1145,71257825071
+138,Ava Lewis,28,M,O,15-06-2023,2023-06-25,Hypertension,Insulin,7117,2807562805
+139,Chris Evans,,male,AB+,16-09-2023,2023-09-18,Bronchitis,Amlodipine,7238,47277405174
+140,Sophia Martinez,48,Female,O+,04/04/2023,05-04-2023,Diabetes,Amlodipine,7443,96801803723
+141,Olivia White,N/A,Female,A+,02/14/2023,,Diabetes,Amlodipine,1045,8069126423
+142,John Doe,32,F,O,11-06-2023,06/22/2023,COVID-19,N/A,-211,71926462929
+143,Michael Lee,29,male,A+,01/20/2024,01/31/2024,COVID-19,Paracetamol,2023,51662581190
+144,Emily Davis,N/A,Female,AB-,04-02-2023,12-02-2023,Hypertension,Amlodipine,-349,4345677946
+145,Michael Lee,,M,O,2023-10-21,10/25/2023,Asthma,Remdesivir,6070,65073538
+146,Jane Smith,66,Male,O,"August 07, 2023",2023-08-19,Flu,,-348,9158314919
+147,Emily Davis,N/A,Male,AB-,10-02-2023,02/24/2023,Bronchitis,Ibuprofen,4529,0749057229
+148,Olivia White,32,male,AB+,14-11-2023,2023-11-23,Diabetes,,9009,09424316457
+149,Chris Evans,42,FEMALE,O-,01/06/2024,2024-01-15,Hypertension,N/A,796,84803818
+150,John Doe,N/A,FEMALE,O+,2023-05-18,19-05-2023,Bronchitis,N/A,-358,1150007693
+151,John Doe,,FEMALE,A+,12-12-2023,26-12-2023,COVID-19,Ibuprofen,-294,84289824
+152,Alice Johnson,,Male,O+,"July 14, 2023",07/22/2023,Asthma,Ibuprofen,-484,86305551060
+153,Ava Lewis,N/A,F,B-,10/19/2023,2023-11-02,,Metformin,-199,3192177814
+154,Daniel Harris,,F,A+,"March 02, 2023",05-03-2023,,N/A,-437,94296136576
+155,Alice Johnson,N/A,Male,A-,12-05-2023,26-05-2023,Flu,Amlodipine,-153,80960703
+156,Michael Lee,37,FEMALE,A+,01/11/2023,01/19/2023,Migraine,Remdesivir,2611,10312281
+157,Emily Davis,63,FEMALE,AB+,11/02/2023,"November 14, 2023",COVID-19,Remdesivir,-240,50119517
+158,Olivia White,N/A,FEMALE,AB+,2023-01-30,01-02-2023,Asthma,Remdesivir,4587,18256935
+159,Michael Lee,52,F,B+,19-10-2023,21-10-2023,Hypertension,N/A,1913,05122255198
+160,Emily Davis,,F,B-,04/18/2023,24-04-2023,Hypertension,N/A,4433,7480882964
+161,Sophia Martinez,N/A,Male,A-,09-04-2023,"April 17, 2023",Bronchitis,Paracetamol,-207,95665921711
+162,Daniel Harris,N/A,FEMALE,A+,03/29/2023,"April 05, 2023",Bronchitis,N/A,4047,14666870707
+163,Michael Lee,63,M,O,"February 05, 2023",08-02-2023,Migraine,Ibuprofen,4764,73293303928
+164,Ava Lewis,62,FEMALE,B+,22-08-2023,2023-08-24,Bronchitis,Insulin,-377,87899806
+165,Robert Brown,N/A,Male,O-,04-09-2023,09-09-2023,,Ibuprofen,7764,18435066654
+166,Jane Smith,27,male,B-,2024-01-21,03-02-2024,Hypertension,Insulin,-181,9496936852
+167,Mark Taylor,N/A,male,B-,"January 24, 2024",06-02-2024,,,-481,93432851686
+168,Daniel Harris,63,M,B-,11-03-2023,"March 15, 2023",Flu,Remdesivir,-191,1627111442
+169,Jane Smith,35,F,O,10-12-2023,2023-12-12,Asthma,Ibuprofen,5052,7736960023
+170,Mark Taylor,N/A,male,AB+,04-11-2023,"November 14, 2023",COVID-19,Insulin,-132,1686010596
+171,Daniel Harris,,M,O+,2023-05-18,06/01/2023,Bronchitis,Amlodipine,-330,18855915339
+172,John Doe,N/A,Male,B+,08/13/2023,"August 22, 2023",Diabetes,Remdesivir,-249,72302049
+173,Ava Lewis,N/A,M,B+,03-02-2024,02/11/2024,Diabetes,Metformin,9164,32657097345
+174,Daniel Harris,N/A,Female,AB-,2023-02-21,"February 28, 2023",Migraine,Insulin,2856,31008982
+175,Alice Johnson,23,male,B+,10-05-2023,05/15/2023,,Ibuprofen,7798,8799809186
+176,Michael Lee,67,Female,O,27-11-2023,11-12-2023,Migraine,Ibuprofen,5725,37735427070
+177,Emily Davis,N/A,F,B-,04/13/2023,26-04-2023,Bronchitis,Amlodipine,5236,34635076075
+178,Jane Smith,,FEMALE,B+,11/02/2023,2023-11-07,Hypertension,Insulin,9269,0521685375
+179,Chris Evans,,Male,O-,"January 12, 2023",23-01-2023,Migraine,,-389,6958760092
+180,Alice Johnson,18,M,A-,"January 29, 2023",13-02-2023,Bronchitis,,-345,23169744277
+181,Mark Taylor,N/A,F,B-,07/16/2023,"July 27, 2023",Diabetes,Amlodipine,-166,20925733804
+182,Robert Brown,53,F,O,03/16/2023,,Migraine,N/A,4019,86940610
+183,Ava Lewis,71,M,AB+,2023-06-10,24-06-2023,,Metformin,-109,72733720691
+184,Ava Lewis,64,M,A-,04/15/2023,24-04-2023,Asthma,N/A,8149,5509077325
+185,Sophia Martinez,63,Female,O-,2023-08-05,2023-08-20,Asthma,Paracetamol,6350,6983949593
+186,Olivia White,,Male,B+,2023-05-08,05/20/2023,Migraine,Ibuprofen,1811,4581011418
+187,Liam Scott,,male,B-,05/24/2023,2023-05-30,Hypertension,Paracetamol,7277,80210078
+188,Daniel Harris,N/A,Female,O-,"September 13, 2023","September 21, 2023",COVID-19,Metformin,-460,8075772743
+189,Jane Smith,78,FEMALE,A+,07/21/2023,2023-07-31,Flu,Ibuprofen,-195,9899627408
+190,Anna Wilson,N/A,M,AB-,23-01-2024,01/28/2024,COVID-19,Paracetamol,-326,39019431655
+191,Chris Evans,32,FEMALE,O-,08/25/2023,09/05/2023,Bronchitis,Metformin,2475,12072233
+192,Chris Evans,N/A,male,O+,21-02-2023,02/24/2023,COVID-19,Metformin,3283,30294415476
+193,Robert Brown,,male,O+,12-01-2024,17-01-2024,Asthma,Paracetamol,7214,89078824251
+194,Chris Evans,58,F,AB+,10/23/2023,"October 28, 2023",Bronchitis,Remdesivir,-179,2085286674
+195,Daniel Harris,,Male,O-,07-06-2023,,Migraine,Remdesivir,7564,9170437707
+196,Emily Davis,78,F,O+,01/09/2023,14-01-2023,COVID-19,,7405,35516624837
+197,Chris Evans,N/A,M,O-,26-04-2023,2023-05-08,Diabetes,Paracetamol,8400,9618182359
+198,Olivia White,,Female,O-,04/07/2023,17-04-2023,COVID-19,Ibuprofen,6287,3466384110
+199,Daniel Harris,80,M,AB+,"May 03, 2023",,Flu,N/A,-286,85288933678
+200,Ava Lewis,59,male,AB+,02-10-2023,"October 08, 2023",Asthma,Ibuprofen,-126,18549912174

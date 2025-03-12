@@ -1,0 +1,20 @@
+Patient_ID,Name,Age,Gender,Blood_Type,Admission_Date,Discharge_Date,Diagnosis,Medication,Bill_Amount,Phone_Number
+13,Daniel Harris,26,Male,B-,2023-11-27,2023-12-06,Covid-19,Metformin,432,
+24,Chris Evans,54,Female,AB+,2023-03-01,2023-03-11,Covid-19,Insulin,247,
+46,Ava Lewis,51,Male,O+,2023-02-16,2023-02-22,Covid-19,Remdesivir,5104,
+75,John Doe,51,Male,A-,2023-11-21,2023-11-27,Covid-19,,1073,8886269972
+84,Mark Taylor,47,Male,AB+,2023-12-07,2023-12-14,Covid-19,Paracetamol,8738,8187033460
+99,Anna Wilson,45,Male,O+,2023-04-23,2023-05-07,Covid-19,Ibuprofen,220,4309976420
+117,Sophia Martinez,51,Male,O-,2023-07-27,2023-08-07,Covid-19,,191,2117814463
+119,Michael Lee,55,Female,AB-,2023-12-12,2023-12-20,Covid-19,Insulin,349,
+130,Alice Johnson,51,Male,O,2023-12-08,2023-12-15,Covid-19,Metformin,338,6636347813
+142,John Doe,32,Female,O,2023-11-06,2023-06-22,Covid-19,,211,
+143,Michael Lee,29,Male,A+,2024-01-20,2024-01-31,Covid-19,Paracetamol,2023,
+151,John Doe,51,Female,A+,2023-12-12,2023-12-26,Covid-19,Ibuprofen,294,
+157,Emily Davis,63,Female,AB+,2023-11-02,2023-11-14,Covid-19,Remdesivir,240,
+170,Mark Taylor,51,Male,AB+,2023-04-11,2023-11-14,Covid-19,Insulin,132,1686010596
+188,Daniel Harris,51,Female,O-,2023-09-13,2023-09-21,Covid-19,Metformin,460,8075772743
+190,Anna Wilson,51,Male,AB-,2024-01-23,2024-01-28,Covid-19,Paracetamol,326,
+192,Chris Evans,51,Male,O+,2023-02-21,2023-02-24,Covid-19,Metformin,3283,
+196,Emily Davis,78,Female,O+,2023-01-09,2023-01-14,Covid-19,,7405,
+198,Olivia White,51,Female,O-,2023-04-07,2023-04-17,Covid-19,Ibuprofen,6287,3466384110
